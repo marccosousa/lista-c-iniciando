@@ -6,7 +6,7 @@ int main () {
     double num1, num2;                                                    
     printf ("Digite o primeiro numero: ");                                
     scanf ("%lf", &num1);
-        
+    
     printf ("Digite o segundo numero: ");
     scanf ("%lf", &num2);
 
